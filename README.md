@@ -35,7 +35,7 @@
 
   ![screenshot](https://www.nassimbahri.ovh/docs/bigdata/documentations/olympix/c1.png)
   
-  Vous pouvez aussi spécifier deux paramètres supplémentaire : la clé et la valeur à afficher. Par exemple, pour afficher le nombre de médailles d'or gagnés par chaque pays, il suffit de taper la commande suivante :
+  Vous pouvez aussi spécifier deux paramètres supplémentaires : la clé et la valeur à afficher. Par exemple, pour afficher le nombre de médailles d'or gagnés par chaque pays, il suffit de taper la commande suivante :
 
   ```
   hadoop jar olympix-1.jar Olympix app/olympix_data.csv output index_cle index_valeur
